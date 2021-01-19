@@ -1,0 +1,8 @@
+@import './css/colors.css';
+html,
+body {
+  font: 14px/1.21 'Helvetica Neue', arial, sans-serif;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
